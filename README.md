@@ -1,6 +1,6 @@
 # screenbreak
 
-Personal tool to take regular breaks from working monitor.
+Personal tool to take regular breaks from monitor.
 
 ## Preferred usage
 
